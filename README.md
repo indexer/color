@@ -9,7 +9,7 @@ https://github.com/Kotlin/anko/blob/master/doc/ADVANCED.md
 Kotlin Plugin for android
 https://kotlinlang.org/docs/tutorials/android-plugin.html
 
-#Screenshoot
+#Screen shot
 https://cloud.githubusercontent.com/assets/1067074/21520562/98019908-cd23-11e6-87c3-fd8abc4e7c79.png
 
 #To Do 
